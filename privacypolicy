@@ -1,0 +1,113 @@
+# Privacy Policy for Ponder
+
+**Effective Date:** November 10, 2025
+**Last Updated:** November 10, 2025
+
+## Overview
+
+Ponder ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use the Ponder mobile application.
+
+## Information We Collect
+
+### Information You Provide
+- **Phone Number:** Used for account creation and authentication via one-time password (OTP)
+- **Username and Display Name:** Your chosen identity within the app
+- **Profile Photo:** Optional avatar image you upload
+- **Answer Content:** Your responses to daily questions (280 character limit)
+- **Comments:** Your comments on friends' answers (500 character limit)
+- **Social Connections:** Friend relationships you establish within the app
+
+### Automatically Collected Information
+- **Usage Data:** Information about how you interact with the app (via Sentry error tracking)
+- **Device Information:** Device type, operating system version, and app version
+- **Session Data:** Authentication session tokens stored locally on your device
+
+## How We Use Your Information
+
+We use your information to:
+- Authenticate your account via phone number OTP
+- Display your profile to accepted friends
+- Show your answers to accepted friends only
+- Enable social features (friend requests, comments, likes)
+- Maintain your answer streak and statistics
+- Improve app performance and fix bugs (via Sentry)
+- Send daily question notifications (if enabled)
+
+## Data Sharing and Disclosure
+
+### What We Share
+- **Friend Visibility:** Your profile, answers, and comments are visible ONLY to users you've mutually accepted as friends
+- **Public Profile Data:** Your username, display name, and avatar are visible to other users for friend discovery
+
+### What We Don't Share
+- We do NOT sell your personal information to third parties
+- We do NOT share your answers with non-friends
+- We do NOT use your data for advertising
+
+### Service Providers
+We use the following third-party services:
+- **Supabase:** Backend database and authentication (data stored in secure cloud infrastructure)
+- **Twilio:** Phone number verification for OTP delivery
+- **Sentry:** Error tracking and performance monitoring
+- **Apple App Store:** App distribution and updates
+
+## Data Storage and Security
+
+- Your data is stored on Supabase's secure cloud infrastructure
+- Phone numbers are stored in E.164 format (+12345678900)
+- Passwords are NOT used - we use secure OTP authentication
+- All data transmitted between the app and servers is encrypted (HTTPS/TLS)
+- Profile photos are stored in secure cloud storage with public URLs
+
+## Your Privacy Rights
+
+You have the right to:
+- **Access:** View all your personal data within the app
+- **Edit:** Update your username, display name, and profile photo
+- **Delete:** Remove individual answers or comments
+- **Account Deletion:** Contact us to permanently delete your account and all associated data
+
+## Data Retention
+
+- **Active Accounts:** We retain your data as long as your account is active
+- **Deleted Content:** Deleted answers and comments are permanently removed from our database
+- **Account Deletion:** Upon account deletion, all your data (profile, answers, comments, friendships) is permanently deleted within 30 days
+
+## Children's Privacy
+
+Ponder is not intended for users under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will delete such information immediately.
+
+## Privacy by Design
+
+- **Friend-Only Visibility:** Answers are private by default - only visible to mutually accepted friends
+- **No Email Required:** We only collect phone numbers for authentication
+- **Minimal Data Collection:** We only collect data necessary to provide the service
+- **Local Storage:** Session data is stored locally on your device
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Updating the "Last Updated" date at the top of this policy
+- Posting the new policy on our GitHub repository
+- Displaying a notice within the app (for material changes)
+
+Your continued use of Ponder after any changes indicates your acceptance of the updated policy.
+
+## Contact Us
+
+If you have questions about this Privacy Policy or want to exercise your privacy rights, please contact us:
+
+**Email:** [YOUR_EMAIL_HERE]
+**GitHub:** https://github.com/[YOUR_USERNAME]/qotd-app
+
+## Legal Compliance
+
+This Privacy Policy complies with:
+- Apple App Store Review Guidelines
+- General Data Protection Regulation (GDPR) principles
+- California Consumer Privacy Act (CCPA) principles
+- Children's Online Privacy Protection Act (COPPA)
+
+---
+
+**By using Ponder, you agree to the collection and use of information in accordance with this Privacy Policy.**
