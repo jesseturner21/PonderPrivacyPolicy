@@ -1,0 +1,73 @@
+ACCOUNT DELETION INFORMATION FOR PONDER
+========================================
+
+App Name: Ponder
+Developer: Jesse Turner
+Contact: jesse.turner2021@gmail.com
+
+
+HOW TO REQUEST ACCOUNT DELETION
+-------------------------------
+
+To delete your Ponder account and all associated data, follow these steps:
+
+1. Open the Ponder app on your device
+2. Navigate to your Profile by tapping the profile icon in the bottom navigation
+3. Tap the Settings icon (gear) in the top right corner
+4. Scroll down and tap "Delete Account"
+5. Review the warning information about what will be deleted
+6. Tap "Delete Account" to proceed
+7. Confirm by tapping "Delete Forever" in the final confirmation dialog
+
+Your account will be immediately deactivated and all data will be queued for permanent deletion.
+
+
+WHAT DATA IS DELETED
+--------------------
+
+When you delete your account, the following data is PERMANENTLY DELETED:
+
+- Your profile information (username, display name, phone number)
+- Your profile photo/avatar
+- All answers you have submitted to daily questions
+- All comments you have made on friends' answers
+- Your friend connections and friendship requests
+- Your push notification preferences and device tokens
+- Your answer streak and statistics
+
+
+WHAT DATA MAY BE RETAINED
+-------------------------
+
+The following data may be retained for a limited period:
+
+- Error logs and crash reports (anonymized, retained for up to 90 days for app stability)
+- Aggregated, non-identifiable usage statistics
+
+
+DATA RETENTION PERIOD
+---------------------
+
+Upon account deletion request:
+- Your account is immediately deactivated and inaccessible
+- All personal data is permanently deleted from our database within 30 days
+- Anonymized error logs are retained for up to 90 days, then automatically purged
+
+
+ALTERNATIVE DELETION REQUEST
+----------------------------
+
+If you are unable to access the app to delete your account, you may request account deletion by contacting us directly:
+
+Email: jesse.turner2021@gmail.com
+
+Please include "Account Deletion Request" in the subject line and provide the phone number associated with your Ponder account. We will process your request within 30 days.
+
+
+QUESTIONS
+---------
+
+For questions about account deletion or your data, please contact:
+Email: jesse.turner2021@gmail.com
+
+Last Updated: December 2025
